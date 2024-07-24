@@ -1,4 +1,4 @@
-# GiveFreely Challenge
+# Somnio Challenge
 
 ## Setup Instructions
 
